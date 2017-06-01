@@ -1,0 +1,179 @@
+VirtualBox COM Server 5.1.8 r111374 win.amd64 (Oct 18 2016 14:42:15) release log
+00:00:00.019000 main     Log opened 2017-05-26T06:47:18.652600400Z
+00:00:00.019000 main     Build Type: release
+00:00:00.019000 main     OS Product: Windows 7
+00:00:00.019000 main     OS Release: 6.1.7601
+00:00:00.019000 main     OS Service Pack: 1
+00:00:00.036000 main     DMI Product Name: 20EV000HUE
+00:00:00.044000 main     DMI Product Version: ThinkPad E560
+00:00:00.044000 main     Host RAM: 32243MB (31.4GB) total, 25876MB (25.2GB) available
+00:00:00.044000 main     Executable: D:\Virtual Box\VBoxSVC.exe
+00:00:00.044000 main     Process ID: 4148
+00:00:00.044000 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.075000          VirtualBox: object creation starts
+00:00:00.076000          Home directory: 'C:\Users\admin\.VirtualBox'
+00:00:00.076000          Installed Drivers:
+00:00:00.078000            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.1.8.11374)
+00:00:00.078000            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.1.8.11374)
+00:00:00.078000            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.1.8.11374)
+00:00:00.078000            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.1.8.11374)
+00:00:00.130000          Loading settings file "C:\Users\admin\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.135000          Getting USB descriptor failed with error 31
+00:00:00.135000          Getting USB descriptor failed with error 31
+00:00:00.135000          Getting USB descriptor failed with error 31
+00:00:00.135000          Getting USB descriptor failed with error 31
+00:00:00.136000          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2a). Please, report the idVendor and idProduct to virtualbox.org.
+00:00:00.222000          HostDnsMonitor: old information
+00:00:00.222000            no server entries
+00:00:00.222000            no domain set
+00:00:00.222000            no search string entries
+00:00:00.222000          HostDnsMonitor: new information
+00:00:00.222000            server 1: 192.168.30.11
+00:00:00.222000            server 2: 192.168.30.1
+00:00:00.222000            domain: www.datamato.com
+00:00:00.222000            no search string entries
+00:00:00.222000          HostDnsMonitorProxy::notify
+00:00:00.464000          VD: VDInit finished
+00:00:00.537000          Loading settings file "C:\Users\admin\VirtualBox VMs\stackinaboxio_opdk_1493100972021_60066\stackinaboxio_opdk_1493100972021_60066.vbox" with version "1.16-windows"
+00:00:00.591000          Loading settings file "C:\Users\admin\VirtualBox VMs\UCD_Chef\UCD_Chef.vbox" with version "1.15-windows"
+00:00:00.615000          Loading settings file "C:\Users\admin\VirtualBox VMs\WebServer_linux\WebServer_linux.vbox" with version "1.16-windows"
+00:00:00.639000          Loading settings file "C:\Users\admin\VirtualBox VMs\MySql_Ubuntu\MySql_Ubuntu.vbox" with version "1.16-windows"
+00:00:00.665000          Loading settings file "C:\Users\admin\VirtualBox VMs\stackinaboxio_opdk_1494297926196_77764\stackinaboxio_opdk_1494297926196_77764.vbox" with version "1.16-windows"
+00:00:00.689000          Loading settings file "C:\Users\admin\VirtualBox VMs\stackinaboxio_opdk_1494612066628_39191\stackinaboxio_opdk_1494612066628_39191.vbox" with version "1.16-windows"
+00:00:00.710000          Loading settings file "C:\Users\admin\VirtualBox VMs\RHEL7.0_IBM_ENGINE\RHEL7.0_IBM_ENGINE.vbox" with version "1.16-windows"
+00:00:00.727000          VirtualBox: object created
+00:00:18.878000          Load [D:\Virtual Box\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] rc VINF_SUCCESS
+00:00:19.003000          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+02:42:42.960500 USBPROXY Getting USB descriptor failed with error 121
+02:42:42.960500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.960500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.960500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.960500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.964500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.964500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.964500 USBPROXY Getting USB descriptor failed with error 31
+02:42:42.964500 USBPROXY Getting USB descriptor failed with error 31
+02:54:54.562000 USBPROXY Getting USB descriptor failed with error 31
+03:16:27.945000          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+03:16:28.008000          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={This machine does not have any snapshots}, preserve=false aResultDetail=0
+03:16:34.701000          Load [D:\Virtual Box\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] rc VINF_SUCCESS
+03:16:34.824000          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+03:17:44.052500 USBPROXY Getting USB descriptor failed with error 31
+03:19:50.124500 USBPROXY Getting USB descriptor failed with error 31
+03:19:50.124500 USBPROXY Getting USB descriptor failed with error 31
+03:19:50.124500 USBPROXY Getting USB descriptor failed with error 31
+04:30:48.964000 USBPROXY Getting USB descriptor failed with error 121
+04:30:48.965000 USBPROXY Getting USB descriptor failed with error 31
+04:30:48.965000 USBPROXY Getting USB descriptor failed with error 31
+04:30:48.965000 USBPROXY Getting USB descriptor failed with error 31
+04:30:48.970000 USBPROXY Getting USB descriptor failed with error 31
+04:30:48.970000 USBPROXY Getting USB descriptor failed with error 31
+04:30:48.970000 USBPROXY Getting USB descriptor failed with error 31
+06:23:57.548000 USBPROXY Getting USB descriptor failed with error 31
+06:23:57.548000 USBPROXY Getting USB descriptor failed with error 31
+06:23:57.548000 USBPROXY Getting USB descriptor failed with error 31
+06:23:59.579000 USBPROXY Getting USB descriptor failed with error 31
+06:23:59.579000 USBPROXY Getting USB descriptor failed with error 31
+06:23:59.579000 USBPROXY Getting USB descriptor failed with error 31
+06:24:01.618500 USBPROXY Getting USB descriptor failed with error 31
+06:24:01.618500 USBPROXY Getting USB descriptor failed with error 31
+06:24:01.618500 USBPROXY Getting USB descriptor failed with error 31
+06:24:03.626000 USBPROXY Getting USB descriptor failed with error 31
+06:24:03.626000 USBPROXY Getting USB descriptor failed with error 31
+06:24:03.626000 USBPROXY Getting USB descriptor failed with error 31
+06:24:04.855000 USBPROXY Getting USB descriptor failed with error 31
+06:24:04.855000 USBPROXY Getting USB descriptor failed with error 31
+06:24:04.855000 USBPROXY Getting USB descriptor failed with error 31
+06:26:28.133500 Watcher  Reaper: Pid 10876 (2a7c) exited normally: 1 (0x1)
+06:26:28.133500 Watcher  Reaper: Pid 8728 (2218) exited normally: 1 (0x1)
+06:28:19.764500 USBPROXY Getting USB descriptor failed with error 121
+06:28:19.764500 USBPROXY Getting USB descriptor failed with error 31
+06:28:19.764500 USBPROXY Getting USB descriptor failed with error 31
+06:28:19.764500 USBPROXY Getting USB descriptor failed with error 31
+06:28:37.892500 USBPROXY Getting USB descriptor failed with error 31
+06:28:37.892500 USBPROXY Getting USB descriptor failed with error 31
+06:28:37.892500 USBPROXY Getting USB descriptor failed with error 31
+06:28:44.307500 USBPROXY Getting USB descriptor failed with error 31
+06:28:44.307500 USBPROXY Getting USB descriptor failed with error 31
+06:28:44.307500 USBPROXY Getting USB descriptor failed with error 31
+06:28:48.173500 USBPROXY Getting USB descriptor failed with error 31
+06:28:48.173500 USBPROXY Getting USB descriptor failed with error 31
+06:28:48.173500 USBPROXY Getting USB descriptor failed with error 31
+06:28:51.696500 USBPROXY Getting USB descriptor failed with error 31
+06:28:51.696500 USBPROXY Getting USB descriptor failed with error 31
+06:28:51.696500 USBPROXY Getting USB descriptor failed with error 31
+06:28:58.737500 USBPROXY Getting USB descriptor failed with error 31
+06:28:58.737500 USBPROXY Getting USB descriptor failed with error 31
+06:28:58.737500 USBPROXY Getting USB descriptor failed with error 31
+06:29:10.350000 USBPROXY Getting USB descriptor failed with error 31
+06:29:10.350000 USBPROXY Getting USB descriptor failed with error 31
+06:29:10.350000 USBPROXY Getting USB descriptor failed with error 31
+06:29:11.233000 USBPROXY Getting USB descriptor failed with error 31
+06:29:11.233000 USBPROXY Getting USB descriptor failed with error 31
+06:29:11.233000 USBPROXY Getting USB descriptor failed with error 31
+06:29:11.891000 USBPROXY Getting USB descriptor failed with error 31
+06:29:11.891000 USBPROXY Getting USB descriptor failed with error 31
+06:29:11.891000 USBPROXY Getting USB descriptor failed with error 31
+06:29:12.401000 USBPROXY Getting USB descriptor failed with error 31
+06:29:12.401000 USBPROXY Getting USB descriptor failed with error 31
+06:29:12.401000 USBPROXY Getting USB descriptor failed with error 31
+06:29:13.181000 USBPROXY Getting USB descriptor failed with error 31
+06:29:13.181000 USBPROXY Getting USB descriptor failed with error 31
+06:29:13.181000 USBPROXY Getting USB descriptor failed with error 31
+06:29:14.051000 USBPROXY Getting USB descriptor failed with error 31
+06:29:14.051000 USBPROXY Getting USB descriptor failed with error 31
+06:29:14.051000 USBPROXY Getting USB descriptor failed with error 31
+06:29:14.921000 USBPROXY Getting USB descriptor failed with error 31
+06:29:14.921000 USBPROXY Getting USB descriptor failed with error 31
+06:29:14.921000 USBPROXY Getting USB descriptor failed with error 31
+06:29:15.472000 USBPROXY Getting USB descriptor failed with error 31
+06:29:15.472000 USBPROXY Getting USB descriptor failed with error 31
+06:29:15.472000 USBPROXY Getting USB descriptor failed with error 31
+06:29:15.990000 USBPROXY Getting USB descriptor failed with error 31
+06:29:15.990000 USBPROXY Getting USB descriptor failed with error 31
+06:29:15.990000 USBPROXY Getting USB descriptor failed with error 31
+06:29:16.562000 USBPROXY Getting USB descriptor failed with error 31
+06:29:16.562000 USBPROXY Getting USB descriptor failed with error 31
+06:29:16.562000 USBPROXY Getting USB descriptor failed with error 31
+06:29:18.114000 USBPROXY Getting USB descriptor failed with error 31
+06:29:18.114000 USBPROXY Getting USB descriptor failed with error 31
+06:29:18.114000 USBPROXY Getting USB descriptor failed with error 31
+06:29:18.724000 USBPROXY Getting USB descriptor failed with error 31
+06:29:18.724000 USBPROXY Getting USB descriptor failed with error 31
+06:29:18.724000 USBPROXY Getting USB descriptor failed with error 31
+06:29:19.244000 USBPROXY Getting USB descriptor failed with error 31
+06:29:19.244000 USBPROXY Getting USB descriptor failed with error 31
+06:29:19.244000 USBPROXY Getting USB descriptor failed with error 31
+06:29:19.994000 USBPROXY Getting USB descriptor failed with error 31
+06:29:19.994000 USBPROXY Getting USB descriptor failed with error 31
+06:29:19.994000 USBPROXY Getting USB descriptor failed with error 31
+06:29:20.515000 USBPROXY Getting USB descriptor failed with error 31
+06:29:20.515000 USBPROXY Getting USB descriptor failed with error 31
+06:29:20.515000 USBPROXY Getting USB descriptor failed with error 31
+06:29:21.154000 USBPROXY Getting USB descriptor failed with error 31
+06:29:21.154000 USBPROXY Getting USB descriptor failed with error 31
+06:29:21.154000 USBPROXY Getting USB descriptor failed with error 31
+06:29:22.912000 USBPROXY Getting USB descriptor failed with error 31
+06:29:22.912000 USBPROXY Getting USB descriptor failed with error 31
+06:29:22.912000 USBPROXY Getting USB descriptor failed with error 31
+06:29:51.698000 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'RHEL7.0_IBM_ENGINE' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\Users\admin\VirtualBox VMs\RHEL7.0_IBM_ENGINE\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:29:51.698000 Watcher  Reaper: Pid 3400 (d48) exited normally: 1 (0x1)
+06:30:03.843000 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'RHEL7.0_IBM_ENGINE' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\Users\admin\VirtualBox VMs\RHEL7.0_IBM_ENGINE\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:30:03.843000 Watcher  Reaper: Pid 12700 (319c) exited normally: 1 (0x1)
+06:30:41.075000          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+06:30:55.241000 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'RHEL7.0_IBM_ENGINE' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\Users\admin\VirtualBox VMs\RHEL7.0_IBM_ENGINE\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:30:55.241000 Watcher  Reaper: Pid 12660 (3174) exited normally: 1 (0x1)
+06:31:11.054500 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'UCD_Chef' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\Users\admin\VirtualBox VMs\UCD_Chef\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:31:11.054500 Watcher  Reaper: Pid 12356 (3044) exited normally: 1 (0x1)
+06:31:27.437500          ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={4afe423b-43e0-e9d0-82e8-ceb307940dda} aComponent={MediumWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+06:31:40.617500 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'UCD_Chef' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\Users\admin\VirtualBox VMs\UCD_Chef\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:31:40.617500 Watcher  Reaper: Pid 11028 (2b14) exited normally: 1 (0x1)
+06:33:18.335000 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'UCD_Chef' has terminated unexpectedly during startup with exit code 1 (0x1).  More details may be available in 'C:\Users\admin\VirtualBox VMs\UCD_Chef\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:33:18.335000 Watcher  Reaper: Pid 11640 (2d78) exited normally: 1 (0x1)
+06:37:33.690500          Loading settings file "C:\Users\admin\VirtualBox VMs\UCD_Chef\UCD_Chef.vbox" with version "1.15-windows"
+06:37:33.691500          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={Trying to open a VM config 'C:/Users/admin/VirtualBox VMs/UCD_Chef/UCD_Chef.vbox' which has the same UUID as an existing virtual machine}, preserve=false aResultDetail=0
+06:40:51.590500 USBPROXY Getting USB descriptor failed with error 31
+06:40:51.591500 USBPROXY Getting USB descriptor failed with error 31
+06:40:51.591500 USBPROXY Getting USB descriptor failed with error 31
+06:40:59.912500 Watcher  ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={MachineWrap} aText={The virtual machine 'RHEL7.0_IBM_ENGINE' has terminated unexpectedly during startup with exit code 1073807364 (0x40010004).  More details may be available in 'C:\Users\admin\VirtualBox VMs\RHEL7.0_IBM_ENGINE\Logs\VBoxHardening.log'}, preserve=false aResultDetail=0
+06:40:59.912500 Watcher  Reaper: Pid 12292 (3004) exited normally: 1073807364 (0x40010004)

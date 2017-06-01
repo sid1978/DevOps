@@ -1,0 +1,60 @@
+VirtualBox COM Server 5.1.8 r111374 win.amd64 (Oct 18 2016 14:42:15) release log
+00:00:00.194000 main     Log opened 2017-06-01T09:09:37.530102000Z
+00:00:00.194000 main     Build Type: release
+00:00:00.194000 main     OS Product: Windows 7
+00:00:00.194000 main     OS Release: 6.1.7601
+00:00:00.194000 main     OS Service Pack: 1
+00:00:00.220000 main     DMI Product Name: 20EV000HUE
+00:00:00.231000 main     DMI Product Version: ThinkPad E560
+00:00:00.231000 main     Host RAM: 32243MB (31.4GB) total, 27688MB (27.0GB) available
+00:00:00.231000 main     Executable: D:\Virtual Box\VBoxSVC.exe
+00:00:00.231000 main     Process ID: 5304
+00:00:00.231000 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.233000          VirtualBox: object creation starts
+00:00:00.233000          Home directory: 'C:\Users\admin\.VirtualBox'
+00:00:00.234000          Installed Drivers:
+00:00:00.238000            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 5.1.8.11374)
+00:00:00.238000            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 5.1.8.11374)
+00:00:00.239000            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 5.1.8.11374)
+00:00:00.239000            C:\Windows\system32\DRIVERS\VBoxDrv.sys (Version: 5.1.8.11374)
+00:00:00.294000          Loading settings file "C:\Users\admin\.VirtualBox\VirtualBox.xml" with version "1.14-windows"
+00:00:00.298000          Getting USB descriptor failed with error 31
+00:00:00.298000          Getting USB descriptor failed with error 31
+00:00:00.298000          Getting USB descriptor failed with error 31
+00:00:00.298000          Getting USB descriptor failed with error 31
+00:00:00.298000          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0a2a). Please, report the idVendor and idProduct to virtualbox.org.
+00:00:00.688000          HostDnsMonitor: old information
+00:00:00.688000            no server entries
+00:00:00.688000            no domain set
+00:00:00.688000            no search string entries
+00:00:00.688000          HostDnsMonitor: new information
+00:00:00.688000            server 1: 192.168.30.11
+00:00:00.688000            server 2: 192.168.30.1
+00:00:00.688000            domain: www.datamato.com
+00:00:00.688000            no search string entries
+00:00:00.688000          HostDnsMonitorProxy::notify
+00:00:00.754000          VD: VDInit finished
+00:00:00.754000          ERROR [COM]: aRC=E_FAIL (0x80004005) aIID={0eb668d2-495e-5a36-8890-29999b5f030c} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.811000          Loading settings file "C:\Users\admin\VirtualBox VMs\stackinaboxio_opdk_1493100972021_60066\stackinaboxio_opdk_1493100972021_60066.vbox" with version "1.16-windows"
+00:00:00.863000          Loading settings file "C:\Users\admin\VirtualBox VMs\UCD_Chef\UCD_Chef.vbox" with version "1.15-windows"
+00:00:00.925000          Loading settings file "C:\Users\admin\VirtualBox VMs\WebServer_linux\WebServer_linux.vbox" with version "1.16-windows"
+00:00:00.927000          Loading settings file "C:\Users\admin\VirtualBox VMs\MySql_Ubuntu\MySql_Ubuntu.vbox" with version "1.16-windows"
+00:00:00.984000          Loading settings file "C:\Users\admin\VirtualBox VMs\stackinaboxio_opdk_1494297926196_77764\stackinaboxio_opdk_1494297926196_77764.vbox" with version "1.16-windows"
+00:00:01.052000          Loading settings file "C:\Users\admin\VirtualBox VMs\stackinaboxio_opdk_1494612066628_39191\stackinaboxio_opdk_1494612066628_39191.vbox" with version "1.16-windows"
+00:00:01.128000          Loading settings file "C:\Users\admin\VirtualBox VMs\RHEL7.0_IBM_ENGINE\RHEL7.0_IBM_ENGINE.vbox" with version "1.16-windows"
+00:00:01.133000          Loading settings file "C:\Users\admin\VirtualBox VMs\WindowsDHCP\WindowsDHCP.vbox" with version "1.15-windows"
+00:00:01.135000          Loading settings file "C:\Users\admin\VirtualBox VMs\DevopsWorkshop\DevopsWorkshop.vbox" with version "1.15-windows"
+00:00:01.172000          VirtualBox: object created
+00:04:31.010000 USBPROXY Getting USB descriptor failed with error 31
+00:04:31.010000 USBPROXY Getting USB descriptor failed with error 31
+00:04:31.010000 USBPROXY Getting USB descriptor failed with error 31
+00:04:31.010000 USBPROXY Getting USB descriptor failed with error 31
+00:27:39.456000          Load [D:\Virtual Box\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] rc VINF_SUCCESS
+00:27:39.641000          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+00:27:41.398500          Load [D:\Virtual Box\ExtensionPacks\Oracle_VM_VirtualBox_Extension_Pack\win.amd64\VBoxHostWebcam.DLL] rc VINF_SUCCESS
+00:27:41.474500          ERROR [COM]: aRC=VBOX_E_IPRT_ERROR (0x80bb0005) aIID={b2547866-a0a1-4391-8b86-6952d82efaa0} aComponent={SessionMachine} aText={Saved screenshot data is not available (VERR_NOT_SUPPORTED)}, preserve=false aResultDetail=0
+01:00:50.286500 USBPROXY Getting USB descriptor failed with error 31
+01:21:49.245000 USBPROXY Getting USB descriptor failed with error 121
+01:21:49.249000 USBPROXY Getting USB descriptor failed with error 31
+01:21:49.249000 USBPROXY Getting USB descriptor failed with error 31
+01:21:49.249000 USBPROXY Getting USB descriptor failed with error 31
